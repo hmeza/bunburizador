@@ -1,4 +1,4 @@
 bunburizador
 ============
 
-Phrase randomizer using Wikipedia
+Phrase randomizer using Wikipedia. Just a joke...
